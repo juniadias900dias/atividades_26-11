@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f3e8ff;
+}
+
+button {
+  padding: 15px 25px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+#vermelho {
+  background-color: red;
+  color: white;
+  border: 2px solid red;
+}
+
+#verde {
+  background-color: green;
+  color: white;
+  border: 2px solid green;
+}
